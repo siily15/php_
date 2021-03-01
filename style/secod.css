@@ -1,0 +1,8 @@
+.pic {
+    display: flex;
+    justify-content: center;
+    width: 900px;
+    height: 600px;
+    background-image: url(/Photos/Anime_Girl.png);
+    background-repeat: no-repeat
+}

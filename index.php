@@ -1,13 +1,10 @@
 <?php
-include 'header.php'
-$array = [
-     'Avaleht',
-     'Kontak',
-     'Meist'
-];
 
-foreach ($array as $value) {
-    echo '<span class=nav-item>' $value '</span>'
-}
+include "header.php";
 
-include 'footer.php'
+
+
+include "index-body.php";
+
+
+include "footer.php";

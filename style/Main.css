@@ -1,0 +1,11 @@
+body {
+}
+
+.pic {
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    height: 600px;
+    background-image: url(/Photos/Japan_Waves.jpg);
+    background-repeat: no-repeat
+}
